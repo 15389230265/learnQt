@@ -25,8 +25,11 @@ Window {
             font.pixelSize: 32;
         }
         //组件是可以重复利用的，一个组件可以在一个单独的 qml 文件中定义，也可以嵌入到其它 qml 文档中来定义以方便简单组件的使用。
+        //Component 只能包含一个顶层 item ，而且在这个 item 之外不能定义任何数据，除了 id
+        //Component 通常用来给一个 view 提供图形化组件, 不是 Item 的派生类，而是从 QQmlComponent 继承而来,但它本身是不可见元素
         Component {
             id: colorComponent;
+            //而顶层 item 之内，则可以包含更多的子元素来协同工作，最终形成一个具有特定功能的组件。
             Rectangle {
                 id: colorPicker;
                 width: 50;

@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ColorPicker.qml</file>
+        <file>component_file.qml</file>
+        <file>loader_focus.qml</file>
+        <file>loader_component_file.qml</file>
+        <file>dynamic_component.qml</file>
+        <file>qt_create_component.qml</file>
+        <file>delete_dynamic_object.qml</file>
+        <file>delete_dynamic_object2.qml</file>
+    </qresource>
+</RCC>

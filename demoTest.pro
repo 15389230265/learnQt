@@ -11,7 +11,8 @@ SUBDIRS += \
     $$PWD/mySignal/mySignal.pro \
     $$PWD/handleMouse/handleMouse.pro \
     $$PWD/handleKey/handleKey.pro \
-    $$PWD/countDown/countDown.pro
+    $$PWD/countDown/countDown.pro \
+    $$PWD/componentsCreat/componentsCreat.pro
 
 
 CONFIG += orderde
