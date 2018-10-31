@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ColorPicker.qml</file>
+        <file>anchors_layout.qml</file>
+    </qresource>
+</RCC>

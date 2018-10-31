@@ -12,7 +12,9 @@ SUBDIRS += \
     $$PWD/handleMouse/handleMouse.pro \
     $$PWD/handleKey/handleKey.pro \
     $$PWD/countDown/countDown.pro \
-    $$PWD/componentsCreat/componentsCreat.pro
+    $$PWD/componentsCreat/componentsCreat.pro \
+    $$PWD/itemPositioner/itemPositioner.pro \
+    $$PWD/musicList/musicList.pro
 
 
 CONFIG += orderde
