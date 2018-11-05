@@ -18,7 +18,8 @@ SUBDIRS += \
     $$PWD/personinfo/personinfo.pro \
     $$PWD/scores/scores.pro \
     $$PWD/citytree/citytree.pro \
-    $$PWD/bintree/bintree.pro
+    $$PWD/bintree/bintree.pro \
+    $$PWD/savetree/savetree.pro
 
 
 CONFIG += orderde
