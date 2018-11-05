@@ -16,7 +16,8 @@ SUBDIRS += \
     $$PWD/itemPositioner/itemPositioner.pro \
     $$PWD/musicList/musicList.pro \
     $$PWD/personinfo/personinfo.pro \
-    $$PWD/scores/scores.pro
+    $$PWD/scores/scores.pro \
+    $$PWD/citytree/citytree.pro
 
 
 CONFIG += orderde
