@@ -14,7 +14,9 @@ SUBDIRS += \
     $$PWD/countDown/countDown.pro \
     $$PWD/componentsCreat/componentsCreat.pro \
     $$PWD/itemPositioner/itemPositioner.pro \
-    $$PWD/musicList/musicList.pro
+    $$PWD/musicList/musicList.pro \
+    $$PWD/personinfo/personinfo.pro \
+    $$PWD/scores/scores.pro
 
 
 CONFIG += orderde
