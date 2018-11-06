@@ -21,7 +21,8 @@ SUBDIRS += \
     $$PWD/bintree/bintree.pro \
     $$PWD/savetree/savetree.pro \
     $$PWD/itemDragDrop/itemDragDrop.pro \
-    $$PWD/contextMenu/contextMenu.pro
+    $$PWD/contextMenu/contextMenu.pro \
+    $$PWD/tableStyle/tableStyle.pro
 
 
 CONFIG += orderde
