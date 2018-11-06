@@ -20,7 +20,8 @@ SUBDIRS += \
     $$PWD/citytree/citytree.pro \
     $$PWD/bintree/bintree.pro \
     $$PWD/savetree/savetree.pro \
-    $$PWD/itemDragDrop/itemDragDrop.pro
+    $$PWD/itemDragDrop/itemDragDrop.pro \
+    $$PWD/contextMenu/contextMenu.pro
 
 
 CONFIG += orderde
