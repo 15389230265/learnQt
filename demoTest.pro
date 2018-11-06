@@ -19,7 +19,8 @@ SUBDIRS += \
     $$PWD/scores/scores.pro \
     $$PWD/citytree/citytree.pro \
     $$PWD/bintree/bintree.pro \
-    $$PWD/savetree/savetree.pro
+    $$PWD/savetree/savetree.pro \
+    $$PWD/itemDragDrop/itemDragDrop.pro
 
 
 CONFIG += orderde
