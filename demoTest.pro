@@ -23,7 +23,8 @@ SUBDIRS += \
     $$PWD/itemDragDrop/itemDragDrop.pro \
     $$PWD/contextMenu/contextMenu.pro \
     $$PWD/tableStyle/tableStyle.pro \
-    $$PWD/contactlist/contactlist.pro
+    $$PWD/contactlist/contactlist.pro \
+    $$PWD/memlinkedlist/memlinkedlist.pro
 
 
 CONFIG += orderde
