@@ -22,7 +22,8 @@ SUBDIRS += \
     $$PWD/savetree/savetree.pro \
     $$PWD/itemDragDrop/itemDragDrop.pro \
     $$PWD/contextMenu/contextMenu.pro \
-    $$PWD/tableStyle/tableStyle.pro
+    $$PWD/tableStyle/tableStyle.pro \
+    $$PWD/contactlist/contactlist.pro
 
 
 CONFIG += orderde
