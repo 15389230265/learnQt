@@ -24,7 +24,8 @@ SUBDIRS += \
     $$PWD/contextMenu/contextMenu.pro \
     $$PWD/tableStyle/tableStyle.pro \
     $$PWD/contactlist/contactlist.pro \
-    $$PWD/memlinkedlist/memlinkedlist.pro
+    $$PWD/memlinkedlist/memlinkedlist.pro \
+    $$PWD/cityposition/cityposition.pro
 
 
 CONFIG += orderde
