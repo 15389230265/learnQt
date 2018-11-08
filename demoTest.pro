@@ -25,7 +25,8 @@ SUBDIRS += \
     $$PWD/tableStyle/tableStyle.pro \
     $$PWD/contactlist/contactlist.pro \
     $$PWD/memlinkedlist/memlinkedlist.pro \
-    $$PWD/cityposition/cityposition.pro
+    $$PWD/cityposition/cityposition.pro \
+    $$PWD/stackTraversal/stackTraversal.pro
 
 
 CONFIG += orderde
