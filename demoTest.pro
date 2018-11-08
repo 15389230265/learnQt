@@ -26,7 +26,8 @@ SUBDIRS += \
     $$PWD/contactlist/contactlist.pro \
     $$PWD/memlinkedlist/memlinkedlist.pro \
     $$PWD/cityposition/cityposition.pro \
-    $$PWD/stackTraversal/stackTraversal.pro
+    $$PWD/stackTraversal/stackTraversal.pro \
+    $$PWD/sequentialtest/sequentialtest.pro
 
 
 CONFIG += orderde
